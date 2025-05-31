@@ -1,8 +1,6 @@
-## aialternative.co: Your Directory for AI Tools
+## AI Alternative: Your Directory for AI Tools
 
-### What is AI Alternative?
-
-aialternative.co is a [curated directory of AI tools](https://aialternative.co/) designed to help you find the right AI solutions quickly and easily.
+AI Alternative is a [curated directory of AI tools](https://aialternative.co/) designed to help you find the right AI solutions quickly and easily.
 
 ### Key Features
 
